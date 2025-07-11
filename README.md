@@ -5,3 +5,4 @@ This repository contains the beginnings of a professional portfolio website with
 ## Structure
 - `index.html` – the main HTML page
 - `style.css` – styling for the site
+- `projects.html` – list of projects
